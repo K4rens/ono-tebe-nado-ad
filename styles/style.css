@@ -195,7 +195,7 @@
   gap: 72px;
 }
 .about-logo {
-  margin-left: 46px;
+  margin-left: 56px;
   background-color: #000000;
   padding: 65px 48px 62px 50px;
   border-radius: 50%;
@@ -207,7 +207,7 @@
   width: 140px;
 }
 .about-text {
-  margin-top: 100px;
+  margin-top: 85px;
   display: flex;
   flex-direction: column;
   gap: 100px;
@@ -236,6 +236,9 @@
   display: flex;
   margin-top: 180px;
   justify-content: space-between;
+  margin-bottom: 82px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .footer-menu-list {
