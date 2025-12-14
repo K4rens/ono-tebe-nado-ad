@@ -59,11 +59,14 @@
 .title .two {
   display: flex;
   justify-content: center;
+  margin-top: 15px;
 }
 
 .title .three {
   display: flex;
   justify-content: end;
+  margin-top: 15px;
+  margin-right: 3px;
 }
 
 .description {
@@ -76,7 +79,7 @@
   color: white;
   font-size: 22px;
   text-transform: uppercase;
-  word-spacing: 25px;
+  word-spacing: 20px;
   line-height: 28px;
   font-weight: 400;
 }
@@ -91,6 +94,7 @@
 }
 .lots {
   margin-top: 180px;
+  margin-left: 24px;
 }
 .lots-title {
   list-style: none;
@@ -156,7 +160,7 @@
 .card-title {
   color: white;
   text-transform: uppercase;
-  text-decoration: none;
+
   font-weight: 700;
   font-size: 22px;
   line-height: 120%;
